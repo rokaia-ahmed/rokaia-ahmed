@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rokaia-ahmed/](https://www.linkedin.com/in/rokaia-ahmed/)
 
-- ⚡ Fun fact **I think I am funny**
   
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokaia-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rokaia-ahmed" /> </p>
